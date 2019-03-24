@@ -1,2 +1,2 @@
-# Mammography_manu
+# Mammography_classifier
 Final year project
